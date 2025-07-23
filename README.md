@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## 📦 Download
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://drive.google.com/file/d/1aSrJsTmeG-sNTxvrGC41PX9Dr_4z9sSJ/view?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
